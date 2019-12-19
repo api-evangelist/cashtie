@@ -1,0 +1,68 @@
+{
+    "name": "Cashtie",
+    "description": "Provide new payment solutions to your client base and integrate cash payments into your existing applications with just a few lines of code.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1993-incomm.jpg",
+    "tags": [
+        "api provider",
+        "cash",
+        "commerce",
+        "financial services",
+        "have api",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cashtie\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "InComm",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1993-incomm.jpg",
+            "humanURL": "https:\/\/www.cashtie.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/incomm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/testapi.cashtie.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/devblog.cashtie.com\/archive"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/incomm"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.cashtie.com\/developers"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.cashtie.com\/plans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/inComm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Cashtieapi"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.cashtie.com\/"
+        }
+    ]
+}
